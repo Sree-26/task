@@ -10,3 +10,16 @@ Create README.md with project documentation
 Generate requirements.txt for project dependencies
 
 Choose and add a License file (e.g., MIT)
+
+Daily Coding Workflow
+Run git pull to sync with the latest code
+
+Create a new branch for current feature (git checkout -b)
+
+Check file status (git status)
+
+Stage changes for commit (git add)
+
+Commit changes with a descriptive message (git commit -m)
+
+Push code to GitHub (git push)
