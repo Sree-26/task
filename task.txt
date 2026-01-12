@@ -1,0 +1,12 @@
+General Setup Tasks
+Initialize local git repository (git init)
+
+Connect local repo to GitHub remote (git remote add origin)
+
+Create .gitignore file to exclude compiled files and datasets
+
+Create README.md with project documentation
+
+Generate requirements.txt for project dependencies
+
+Choose and add a License file (e.g., MIT)
